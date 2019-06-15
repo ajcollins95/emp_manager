@@ -1,0 +1,21 @@
+<template lang="html">
+  <div id="new-employee" class="">
+    <h3>New Employee</h3>
+
+  </div>
+
+</template>
+
+<script>
+export default {
+  name: 'new-employee',
+  data() {
+    return {
+
+    }
+  }
+}
+</script>
+
+<style lang="css" scoped>
+</style>
